@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mf67o8Y53CtSwRYFZ+v5xlwPqItXcJFAVyYsR3miB0I2acA4F6/JfVLduFdHpnsukBF3PYsc9rdpIqukU5q3lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\Desktop\\repos2\\API-Exercise-1\\API-Exercise-1\\API-Exercise-1\\API-Exercise-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
